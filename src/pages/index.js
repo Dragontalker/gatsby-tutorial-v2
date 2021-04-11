@@ -7,6 +7,6 @@ export default () => (
     <div>
       <Link to="/blog/">blog page</Link>
     </div>
-    <a href="/https://www.gatsbyjs.org/">gatsby docs</a>
+    <a href="https://www.gatsbyjs.org">gatsby docs</a>
   </div>
 );
