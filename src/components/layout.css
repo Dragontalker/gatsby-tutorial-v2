@@ -3,3 +3,8 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
+h1 {
+  color: blue;
+  text-transform: uppercase;
+}
