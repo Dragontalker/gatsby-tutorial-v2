@@ -1,13 +1,8 @@
 import React from "react";
-import { Link } from 'gatsby';
 import Layout from '../components/layout';
 
 export default () => (
   <Layout>
-    Hello world!
-    <div>
-      <Link to="/blog/">blog page</Link>
-    </div>
-    <a href="https://www.gatsbyjs.org">gatsby docs</a>
+    <h1>Hello from Gatsby!</h1>
   </Layout>
 );
