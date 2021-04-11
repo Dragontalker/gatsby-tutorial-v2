@@ -6,6 +6,7 @@ export default class products extends Component {
         return (
             <Layout>
                 <h1>this is our products</h1>
+                <p className="product-text">asdjasldjaslkdjalkjsdklajdklajslkdjaklsjdklasjdklasjdkljaslkdjklasjdlasjldkjaskldjklajdklasjdkljadlkjakldjsal</p>
             </Layout>
         )
     }
